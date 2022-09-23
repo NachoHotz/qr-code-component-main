@@ -51,6 +51,7 @@ body {
   color: var(--var-grayish-blue);
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
+  text-indent: .7rem;
 }
 
 .attribution {
